@@ -1,5 +1,5 @@
-Git is a version control system
-Git is free software
+Git is a version control system.
+Git is free software distributed under the GPL.
 
 about git commit: 
 >> -m: -m is followed by the description of this submission.    
